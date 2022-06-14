@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="210" height="297" viewBox="0 -297 210 297">
+<defs>
+</defs>
+<rect x="0" y="-297" width="210" height="297" stroke="#1248ff" fill="none" />
+<path d="M0,-178.2 L10.5,-178.2 L10.5,-181.2 L31.5,-181.2 L31.5,-178.2 L42.0,-178.2" fill="none" stroke="red" />
+<path d="M42.0,-178.2 L42.0,-118.8" fill="none" stroke="red" />
+<path d="M42.0,-118.8 L168.0,-118.8" fill="none" stroke="green" />
+<path d="M168.0,-118.8 L168.0,-178.2" fill="none" stroke="red" />
+<path d="M168.0,-178.2 L178.5,-178.2 L178.5,-181.2 L199.5,-181.2 L199.5,-178.2 L210,-178.2" fill="none" stroke="red" />
+<path d="M91.875,-267.3 L91.875,-148.5 L98.4375,-148.5 L98.4375,-145.5 L111.5625,-145.5 L111.5625,-148.5 L118.125,-148.5 L118.125,-267.3" fill="none" stroke="red" />
+<path d="M91.875,-267.3 L118.125,-267.3" fill="none" stroke="green" />
+<path d="M0,-163.35 L42.0,-163.35" stroke="green" />
+<path d="M0,-148.5 L42.0,-148.5" stroke="green" />
+<path d="M168.0,-163.35 L210,-163.35" stroke="green" />
+<path d="M168.0,-148.5 L210,-148.5" stroke="green" />
+<path d="M10.5,-133.65 L10.5,-136.65 L31.5,-136.65 L31.5,-133.65 Z" fill="none" stroke="red" />
+<path d="M178.5,-133.65 L178.5,-136.65 L199.5,-136.65 L199.5,-133.65 Z" fill="none" stroke="red" />
+<path d="M98.4375,-29.7 L111.5625,-29.7 L111.5625,-32.7 L98.4375,-32.7 Z" fill="none" stroke="red" />
+<text x="10" y="-282.15" font-size="7" dy="0em">tablet/phone stand for card sized 210x297px</text>
+<text x="10" y="-40" font-size="7" fill="black" font="verdana" dy="0em">print on heavy card</text>
+<text x="10" y="-30" font-size="7" fill="red" font="monospace" dy="0em">Cut on red</text>
+<text x="10" y="-20" font-size="7" fill="green" font="monospace" dy="0em">Score on green (both sides)</text>
+<text x="10" y="-10" font-size="7" fill="black" dy="0em">fold tabs into cutouts</text>
+</svg>
